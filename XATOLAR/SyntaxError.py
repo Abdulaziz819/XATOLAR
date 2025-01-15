@@ -1,0 +1,2 @@
+SyntaxError
+print("Syntax, Error!)
