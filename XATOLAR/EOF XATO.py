@@ -1,1 +1,1 @@
-print("EOL, xato"
+print("EOF, xato"
